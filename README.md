@@ -5,3 +5,4 @@ the Hello-world project.
 Remote: https://github.com/<username>/hello-git
 Branch practice by Alice
 Sync test by Alice
+Pull test by Alice
